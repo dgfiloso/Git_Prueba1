@@ -3,11 +3,11 @@
 
 int main(){
 	int a,b,c;
-	a=3;
-	b=3;
-	c=7;
+	a=5;
+	b=5;
+	c=5;
 	a = c+b;
 	c = suma(a,c);
-	printf("El valor de c deberia ser 17 y es: %d",c);
+	printf("El valor de c deberia ser 15 y es: %d",c);
 	return 0;
 }
