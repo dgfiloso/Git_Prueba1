@@ -8,6 +8,6 @@ int main(){
 	c=5;
 	a = c+b;
 	c = suma(a,c);
-	printf("El valor de c deberia ser 15 y es: %d",c);
+	printf("El valor de c deberia ser 15 y en realidad es: %d",c);
 	return 0;
 }
